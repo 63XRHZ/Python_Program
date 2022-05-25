@@ -1,3 +1,3 @@
 # Python_Program
 
-In This Repository I Will Put The Programs I Created On Python.
+In This Repositories I Will Put The Programs I Created On Python.
